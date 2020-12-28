@@ -1,5 +1,5 @@
 # ImprovFusion
-[Open-Source Music Generation Project](http://improvfusion.com)
+[Open-Source Music Generation Project](https://leostep.pythonanywhere.com/)
 In service to the community of music and data science enthusiasts (in progress).
 ![logo](https://github.com/leo-step/ImprovFusion/blob/master/logo.png)
 
