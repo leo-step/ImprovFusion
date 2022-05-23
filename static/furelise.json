@@ -1,0 +1,1804 @@
+{
+ "links": [
+  {
+   "source": 3,
+   "target": 0,
+   "value": 1
+  },
+  {
+   "source": 12,
+   "target": 0,
+   "value": 2
+  },
+  {
+   "source": 15,
+   "target": 0,
+   "value": 4
+  },
+  {
+   "source": 22,
+   "target": 0,
+   "value": 3
+  },
+  {
+   "source": 27,
+   "target": 0,
+   "value": 2
+  },
+  {
+   "source": 29,
+   "target": 0,
+   "value": 2
+  },
+  {
+   "source": 33,
+   "target": 0,
+   "value": 25
+  },
+  {
+   "source": 42,
+   "target": 0,
+   "value": 1
+  },
+  {
+   "source": 50,
+   "target": 0,
+   "value": 12
+  },
+  {
+   "source": 56,
+   "target": 0,
+   "value": 1
+  },
+  {
+   "source": 59,
+   "target": 0,
+   "value": 2
+  },
+  {
+   "source": 35,
+   "target": 1,
+   "value": 1
+  },
+  {
+   "source": 10,
+   "target": 2,
+   "value": 1
+  },
+  {
+   "source": 24,
+   "target": 2,
+   "value": 1
+  },
+  {
+   "source": 11,
+   "target": 3,
+   "value": 1
+  },
+  {
+   "source": 50,
+   "target": 3,
+   "value": 2
+  },
+  {
+   "source": 56,
+   "target": 3,
+   "value": 2
+  },
+  {
+   "source": 64,
+   "target": 3,
+   "value": 1
+  },
+  {
+   "source": 13,
+   "target": 4,
+   "value": 1
+  },
+  {
+   "source": 15,
+   "target": 4,
+   "value": 1
+  },
+  {
+   "source": 18,
+   "target": 4,
+   "value": 1
+  },
+  {
+   "source": 22,
+   "target": 4,
+   "value": 2
+  },
+  {
+   "source": 27,
+   "target": 4,
+   "value": 1
+  },
+  {
+   "source": 50,
+   "target": 4,
+   "value": 1
+  },
+  {
+   "source": 50,
+   "target": 5,
+   "value": 1
+  },
+  {
+   "source": 54,
+   "target": 5,
+   "value": 2
+  },
+  {
+   "source": 22,
+   "target": 6,
+   "value": 2
+  },
+  {
+   "source": 33,
+   "target": 7,
+   "value": 3
+  },
+  {
+   "source": 64,
+   "target": 7,
+   "value": 4
+  },
+  {
+   "source": 51,
+   "target": 8,
+   "value": 2
+  },
+  {
+   "source": 65,
+   "target": 8,
+   "value": 2
+  },
+  {
+   "source": 35,
+   "target": 9,
+   "value": 1
+  },
+  {
+   "source": 20,
+   "target": 10,
+   "value": 1
+  },
+  {
+   "source": 25,
+   "target": 10,
+   "value": 1
+  },
+  {
+   "source": 64,
+   "target": 11,
+   "value": 1
+  },
+  {
+   "source": 70,
+   "target": 11,
+   "value": 1
+  },
+  {
+   "source": 64,
+   "target": 12,
+   "value": 2
+  },
+  {
+   "source": 40,
+   "target": 13,
+   "value": 1
+  },
+  {
+   "source": 44,
+   "target": 13,
+   "value": 1
+  },
+  {
+   "source": 70,
+   "target": 13,
+   "value": 2
+  },
+  {
+   "source": 57,
+   "target": 14,
+   "value": 2
+  },
+  {
+   "source": 42,
+   "target": 15,
+   "value": 1
+  },
+  {
+   "source": 70,
+   "target": 15,
+   "value": 7
+  },
+  {
+   "source": 7,
+   "target": 16,
+   "value": 1
+  },
+  {
+   "source": 18,
+   "target": 16,
+   "value": 1
+  },
+  {
+   "source": 29,
+   "target": 16,
+   "value": 1
+  },
+  {
+   "source": 44,
+   "target": 16,
+   "value": 20
+  },
+  {
+   "source": 20,
+   "target": 17,
+   "value": 1
+  },
+  {
+   "source": 5,
+   "target": 18,
+   "value": 1
+  },
+  {
+   "source": 50,
+   "target": 18,
+   "value": 4
+  },
+  {
+   "source": 64,
+   "target": 18,
+   "value": 2
+  },
+  {
+   "source": 77,
+   "target": 18,
+   "value": 1
+  },
+  {
+   "source": 51,
+   "target": 19,
+   "value": 2
+  },
+  {
+   "source": 53,
+   "target": 19,
+   "value": 2
+  },
+  {
+   "source": 31,
+   "target": 20,
+   "value": 1
+  },
+  {
+   "source": 36,
+   "target": 20,
+   "value": 1
+  },
+  {
+   "source": 3,
+   "target": 21,
+   "value": 1
+  },
+  {
+   "source": 3,
+   "target": 22,
+   "value": 3
+  },
+  {
+   "source": 33,
+   "target": 22,
+   "value": 2
+  },
+  {
+   "source": 37,
+   "target": 22,
+   "value": 1
+  },
+  {
+   "source": 40,
+   "target": 22,
+   "value": 1
+  },
+  {
+   "source": 50,
+   "target": 22,
+   "value": 1
+  },
+  {
+   "source": 56,
+   "target": 22,
+   "value": 2
+  },
+  {
+   "source": 64,
+   "target": 22,
+   "value": 1
+  },
+  {
+   "source": 79,
+   "target": 22,
+   "value": 2
+  },
+  {
+   "source": 38,
+   "target": 23,
+   "value": 2
+  },
+  {
+   "source": 45,
+   "target": 23,
+   "value": 2
+  },
+  {
+   "source": 58,
+   "target": 24,
+   "value": 1
+  },
+  {
+   "source": 36,
+   "target": 25,
+   "value": 1
+  },
+  {
+   "source": 18,
+   "target": 26,
+   "value": 1
+  },
+  {
+   "source": 50,
+   "target": 26,
+   "value": 1
+  },
+  {
+   "source": 56,
+   "target": 26,
+   "value": 5
+  },
+  {
+   "source": 5,
+   "target": 27,
+   "value": 2
+  },
+  {
+   "source": 60,
+   "target": 27,
+   "value": 1
+  },
+  {
+   "source": 57,
+   "target": 28,
+   "value": 2
+  },
+  {
+   "source": 15,
+   "target": 29,
+   "value": 2
+  },
+  {
+   "source": 44,
+   "target": 29,
+   "value": 1
+  },
+  {
+   "source": 65,
+   "target": 30,
+   "value": 1
+  },
+  {
+   "source": 46,
+   "target": 31,
+   "value": 1
+  },
+  {
+   "source": 0,
+   "target": 32,
+   "value": 10
+  },
+  {
+   "source": 7,
+   "target": 32,
+   "value": 2
+  },
+  {
+   "source": 32,
+   "target": 32,
+   "value": 28
+  },
+  {
+   "source": 81,
+   "target": 32,
+   "value": 1
+  },
+  {
+   "source": 9,
+   "target": 33,
+   "value": 1
+  },
+  {
+   "source": 13,
+   "target": 33,
+   "value": 1
+  },
+  {
+   "source": 18,
+   "target": 33,
+   "value": 1
+  },
+  {
+   "source": 21,
+   "target": 33,
+   "value": 1
+  },
+  {
+   "source": 22,
+   "target": 33,
+   "value": 1
+  },
+  {
+   "source": 39,
+   "target": 33,
+   "value": 1
+  },
+  {
+   "source": 40,
+   "target": 33,
+   "value": 1
+  },
+  {
+   "source": 44,
+   "target": 33,
+   "value": 8
+  },
+  {
+   "source": 47,
+   "target": 33,
+   "value": 1
+  },
+  {
+   "source": 49,
+   "target": 33,
+   "value": 1
+  },
+  {
+   "source": 50,
+   "target": 33,
+   "value": 16
+  },
+  {
+   "source": 62,
+   "target": 33,
+   "value": 1
+  },
+  {
+   "source": 63,
+   "target": 33,
+   "value": 50
+  },
+  {
+   "source": 68,
+   "target": 33,
+   "value": 2
+  },
+  {
+   "source": 11,
+   "target": 34,
+   "value": 1
+  },
+  {
+   "source": 41,
+   "target": 34,
+   "value": 1
+  },
+  {
+   "source": 76,
+   "target": 34,
+   "value": 1
+  },
+  {
+   "source": 78,
+   "target": 34,
+   "value": 2
+  },
+  {
+   "source": 2,
+   "target": 35,
+   "value": 1
+  },
+  {
+   "source": 44,
+   "target": 35,
+   "value": 1
+  },
+  {
+   "source": 63,
+   "target": 35,
+   "value": 1
+  },
+  {
+   "source": 13,
+   "target": 36,
+   "value": 1
+  },
+  {
+   "source": 43,
+   "target": 36,
+   "value": 1
+  },
+  {
+   "source": 0,
+   "target": 37,
+   "value": 1
+  },
+  {
+   "source": 38,
+   "target": 37,
+   "value": 1
+  },
+  {
+   "source": 64,
+   "target": 37,
+   "value": 2
+  },
+  {
+   "source": 41,
+   "target": 38,
+   "value": 1
+  },
+  {
+   "source": 48,
+   "target": 38,
+   "value": 2
+  },
+  {
+   "source": 4,
+   "target": 39,
+   "value": 4
+  },
+  {
+   "source": 39,
+   "target": 39,
+   "value": 8
+  },
+  {
+   "source": 4,
+   "target": 40,
+   "value": 1
+  },
+  {
+   "source": 18,
+   "target": 40,
+   "value": 1
+  },
+  {
+   "source": 22,
+   "target": 40,
+   "value": 1
+  },
+  {
+   "source": 44,
+   "target": 40,
+   "value": 1
+  },
+  {
+   "source": 56,
+   "target": 40,
+   "value": 1
+  },
+  {
+   "source": 15,
+   "target": 41,
+   "value": 1
+  },
+  {
+   "source": 32,
+   "target": 41,
+   "value": 1
+  },
+  {
+   "source": 34,
+   "target": 41,
+   "value": 1
+  },
+  {
+   "source": 40,
+   "target": 42,
+   "value": 1
+  },
+  {
+   "source": 47,
+   "target": 42,
+   "value": 1
+  },
+  {
+   "source": 6,
+   "target": 43,
+   "value": 2
+  },
+  {
+   "source": 43,
+   "target": 43,
+   "value": 2
+  },
+  {
+   "source": 18,
+   "target": 44,
+   "value": 1
+  },
+  {
+   "source": 33,
+   "target": 44,
+   "value": 20
+  },
+  {
+   "source": 50,
+   "target": 44,
+   "value": 14
+  },
+  {
+   "source": 62,
+   "target": 44,
+   "value": 1
+  },
+  {
+   "source": 64,
+   "target": 44,
+   "value": 16
+  },
+  {
+   "source": 66,
+   "target": 44,
+   "value": 2
+  },
+  {
+   "source": 75,
+   "target": 44,
+   "value": 4
+  },
+  {
+   "source": 79,
+   "target": 44,
+   "value": 8
+  },
+  {
+   "source": 65,
+   "target": 45,
+   "value": 2
+  },
+  {
+   "source": 69,
+   "target": 45,
+   "value": 1
+  },
+  {
+   "source": 78,
+   "target": 45,
+   "value": 2
+  },
+  {
+   "source": 81,
+   "target": 46,
+   "value": 1
+  },
+  {
+   "source": 52,
+   "target": 47,
+   "value": 2
+  },
+  {
+   "source": 19,
+   "target": 48,
+   "value": 2
+  },
+  {
+   "source": 22,
+   "target": 49,
+   "value": 1
+  },
+  {
+   "source": 32,
+   "target": 49,
+   "value": 1
+  },
+  {
+   "source": 33,
+   "target": 49,
+   "value": 16
+  },
+  {
+   "source": 0,
+   "target": 50,
+   "value": 4
+  },
+  {
+   "source": 2,
+   "target": 50,
+   "value": 1
+  },
+  {
+   "source": 4,
+   "target": 50,
+   "value": 2
+  },
+  {
+   "source": 22,
+   "target": 50,
+   "value": 2
+  },
+  {
+   "source": 26,
+   "target": 50,
+   "value": 1
+  },
+  {
+   "source": 33,
+   "target": 50,
+   "value": 3
+  },
+  {
+   "source": 41,
+   "target": 50,
+   "value": 1
+  },
+  {
+   "source": 44,
+   "target": 50,
+   "value": 12
+  },
+  {
+   "source": 54,
+   "target": 50,
+   "value": 1
+  },
+  {
+   "source": 55,
+   "target": 50,
+   "value": 7
+  },
+  {
+   "source": 56,
+   "target": 50,
+   "value": 24
+  },
+  {
+   "source": 62,
+   "target": 50,
+   "value": 1
+  },
+  {
+   "source": 63,
+   "target": 50,
+   "value": 5
+  },
+  {
+   "source": 45,
+   "target": 51,
+   "value": 1
+  },
+  {
+   "source": 57,
+   "target": 51,
+   "value": 1
+  },
+  {
+   "source": 78,
+   "target": 51,
+   "value": 2
+  },
+  {
+   "source": 0,
+   "target": 52,
+   "value": 2
+  },
+  {
+   "source": 37,
+   "target": 52,
+   "value": 2
+  },
+  {
+   "source": 78,
+   "target": 53,
+   "value": 2
+  },
+  {
+   "source": 32,
+   "target": 54,
+   "value": 2
+  },
+  {
+   "source": 56,
+   "target": 54,
+   "value": 1
+  },
+  {
+   "source": 79,
+   "target": 55,
+   "value": 7
+  },
+  {
+   "source": 18,
+   "target": 56,
+   "value": 1
+  },
+  {
+   "source": 32,
+   "target": 56,
+   "value": 2
+  },
+  {
+   "source": 33,
+   "target": 56,
+   "value": 1
+  },
+  {
+   "source": 39,
+   "target": 56,
+   "value": 1
+  },
+  {
+   "source": 40,
+   "target": 56,
+   "value": 1
+  },
+  {
+   "source": 44,
+   "target": 56,
+   "value": 16
+  },
+  {
+   "source": 50,
+   "target": 56,
+   "value": 4
+  },
+  {
+   "source": 60,
+   "target": 56,
+   "value": 1
+  },
+  {
+   "source": 63,
+   "target": 56,
+   "value": 4
+  },
+  {
+   "source": 64,
+   "target": 56,
+   "value": 9
+  },
+  {
+   "source": 68,
+   "target": 56,
+   "value": 1
+  },
+  {
+   "source": 65,
+   "target": 57,
+   "value": 2
+  },
+  {
+   "source": 71,
+   "target": 57,
+   "value": 2
+  },
+  {
+   "source": 78,
+   "target": 57,
+   "value": 2
+  },
+  {
+   "source": 32,
+   "target": 58,
+   "value": 1
+  },
+  {
+   "source": 67,
+   "target": 59,
+   "value": 2
+  },
+  {
+   "source": 39,
+   "target": 60,
+   "value": 1
+  },
+  {
+   "source": 56,
+   "target": 60,
+   "value": 1
+  },
+  {
+   "source": 63,
+   "target": 60,
+   "value": 1
+  },
+  {
+   "source": 64,
+   "target": 60,
+   "value": 47
+  },
+  {
+   "source": 67,
+   "target": 60,
+   "value": 4
+  },
+  {
+   "source": 65,
+   "target": 61,
+   "value": 3
+  },
+  {
+   "source": 16,
+   "target": 62,
+   "value": 3
+  },
+  {
+   "source": 64,
+   "target": 62,
+   "value": 2
+  },
+  {
+   "source": 0,
+   "target": 63,
+   "value": 34
+  },
+  {
+   "source": 7,
+   "target": 63,
+   "value": 4
+  },
+  {
+   "source": 16,
+   "target": 63,
+   "value": 20
+  },
+  {
+   "source": 26,
+   "target": 63,
+   "value": 1
+  },
+  {
+   "source": 33,
+   "target": 63,
+   "value": 12
+  },
+  {
+   "source": 49,
+   "target": 63,
+   "value": 17
+  },
+  {
+   "source": 64,
+   "target": 63,
+   "value": 8
+  },
+  {
+   "source": 68,
+   "target": 63,
+   "value": 1
+  },
+  {
+   "source": 79,
+   "target": 63,
+   "value": 9
+  },
+  {
+   "source": 13,
+   "target": 64,
+   "value": 1
+  },
+  {
+   "source": 32,
+   "target": 64,
+   "value": 3
+  },
+  {
+   "source": 35,
+   "target": 64,
+   "value": 1
+  },
+  {
+   "source": 44,
+   "target": 64,
+   "value": 2
+  },
+  {
+   "source": 50,
+   "target": 64,
+   "value": 4
+  },
+  {
+   "source": 56,
+   "target": 64,
+   "value": 4
+  },
+  {
+   "source": 60,
+   "target": 64,
+   "value": 51
+  },
+  {
+   "source": 63,
+   "target": 64,
+   "value": 20
+  },
+  {
+   "source": 64,
+   "target": 64,
+   "value": 2
+  },
+  {
+   "source": 65,
+   "target": 64,
+   "value": 1
+  },
+  {
+   "source": 68,
+   "target": 64,
+   "value": 4
+  },
+  {
+   "source": 70,
+   "target": 64,
+   "value": 5
+  },
+  {
+   "source": 82,
+   "target": 64,
+   "value": 1
+  },
+  {
+   "source": 34,
+   "target": 65,
+   "value": 1
+  },
+  {
+   "source": 45,
+   "target": 65,
+   "value": 2
+  },
+  {
+   "source": 57,
+   "target": 65,
+   "value": 1
+  },
+  {
+   "source": 61,
+   "target": 65,
+   "value": 2
+  },
+  {
+   "source": 71,
+   "target": 65,
+   "value": 3
+  },
+  {
+   "source": 78,
+   "target": 65,
+   "value": 2
+  },
+  {
+   "source": 60,
+   "target": 66,
+   "value": 1
+  },
+  {
+   "source": 61,
+   "target": 66,
+   "value": 1
+  },
+  {
+   "source": 52,
+   "target": 67,
+   "value": 2
+  },
+  {
+   "source": 62,
+   "target": 67,
+   "value": 2
+  },
+  {
+   "source": 64,
+   "target": 67,
+   "value": 2
+  },
+  {
+   "source": 33,
+   "target": 68,
+   "value": 2
+  },
+  {
+   "source": 44,
+   "target": 68,
+   "value": 4
+  },
+  {
+   "source": 72,
+   "target": 68,
+   "value": 1
+  },
+  {
+   "source": 74,
+   "target": 68,
+   "value": 1
+  },
+  {
+   "source": 26,
+   "target": 69,
+   "value": 1
+  },
+  {
+   "source": 0,
+   "target": 70,
+   "value": 4
+  },
+  {
+   "source": 3,
+   "target": 70,
+   "value": 1
+  },
+  {
+   "source": 18,
+   "target": 70,
+   "value": 1
+  },
+  {
+   "source": 32,
+   "target": 70,
+   "value": 3
+  },
+  {
+   "source": 33,
+   "target": 70,
+   "value": 1
+  },
+  {
+   "source": 73,
+   "target": 70,
+   "value": 1
+  },
+  {
+   "source": 75,
+   "target": 70,
+   "value": 4
+  },
+  {
+   "source": 30,
+   "target": 71,
+   "value": 1
+  },
+  {
+   "source": 78,
+   "target": 71,
+   "value": 4
+  },
+  {
+   "source": 75,
+   "target": 72,
+   "value": 1
+  },
+  {
+   "source": 77,
+   "target": 73,
+   "value": 1
+  },
+  {
+   "source": 63,
+   "target": 74,
+   "value": 1
+  },
+  {
+   "source": 26,
+   "target": 75,
+   "value": 4
+  },
+  {
+   "source": 50,
+   "target": 75,
+   "value": 4
+  },
+  {
+   "source": 79,
+   "target": 75,
+   "value": 1
+  },
+  {
+   "source": 34,
+   "target": 76,
+   "value": 1
+  },
+  {
+   "source": 78,
+   "target": 76,
+   "value": 2
+  },
+  {
+   "source": 22,
+   "target": 77,
+   "value": 1
+  },
+  {
+   "source": 80,
+   "target": 77,
+   "value": 1
+  },
+  {
+   "source": 8,
+   "target": 78,
+   "value": 4
+  },
+  {
+   "source": 14,
+   "target": 78,
+   "value": 2
+  },
+  {
+   "source": 19,
+   "target": 78,
+   "value": 2
+  },
+  {
+   "source": 23,
+   "target": 78,
+   "value": 4
+  },
+  {
+   "source": 28,
+   "target": 78,
+   "value": 2
+  },
+  {
+   "source": 34,
+   "target": 78,
+   "value": 2
+  },
+  {
+   "source": 76,
+   "target": 78,
+   "value": 2
+  },
+  {
+   "source": 33,
+   "target": 79,
+   "value": 1
+  },
+  {
+   "source": 39,
+   "target": 79,
+   "value": 1
+  },
+  {
+   "source": 43,
+   "target": 79,
+   "value": 1
+  },
+  {
+   "source": 63,
+   "target": 79,
+   "value": 24
+  },
+  {
+   "source": 37,
+   "target": 80,
+   "value": 1
+  },
+  {
+   "source": 10,
+   "target": 81,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 81,
+   "value": 1
+  },
+  {
+   "source": 1,
+   "target": 82,
+   "value": 1
+  }
+ ],
+ "nodes": [
+  {
+   "group": "2",
+   "label": "A2 16th in chord",
+   "name": "chordA0216thnodot",
+   "size": "55"
+  },
+  {
+   "group": "2",
+   "label": "A2 eighth in chord",
+   "name": "chordA02eighthnodot",
+   "size": "1"
+  },
+  {
+   "group": "2",
+   "label": "A2 quarter in chord",
+   "name": "chordA02quarternodot",
+   "size": "2"
+  },
+  {
+   "group": "3",
+   "label": "A3 16th in chord",
+   "name": "chordA0316thnodot",
+   "size": "6"
+  },
+  {
+   "group": "2",
+   "label": "A#2 16th in chord",
+   "name": "chordA1216thnodot",
+   "size": "7"
+  },
+  {
+   "group": "3",
+   "label": "A#3 16th in chord",
+   "name": "chordA1316thnodot",
+   "size": "3"
+  },
+  {
+   "group": "2",
+   "label": "B2 16th in chord",
+   "name": "chordB0216thnodot",
+   "size": "2"
+  },
+  {
+   "group": "3",
+   "label": "C3 16th in chord",
+   "name": "chordC0316thnodot",
+   "size": "7"
+  },
+  {
+   "group": "3",
+   "label": "C3 32nd in chord",
+   "name": "chordC0332ndnodot",
+   "size": "4"
+  },
+  {
+   "group": "3",
+   "label": "C3 eighth in chord",
+   "name": "chordC03eighthnodot",
+   "size": "1"
+  },
+  {
+   "group": "3",
+   "label": "C3 quarter in chord",
+   "name": "chordC03quarternodot",
+   "size": "2"
+  },
+  {
+   "group": "4",
+   "label": "C4 16th in chord",
+   "name": "chordC0416thnodot",
+   "size": "2"
+  },
+  {
+   "group": "4",
+   "label": "C#4 16th in chord",
+   "name": "chordC1416thnodot",
+   "size": "2"
+  },
+  {
+   "group": "3",
+   "label": "D3 16th in chord",
+   "name": "chordD0316thnodot",
+   "size": "4"
+  },
+  {
+   "group": "3",
+   "label": "D3 32nd in chord",
+   "name": "chordD0332ndnodot",
+   "size": "2"
+  },
+  {
+   "group": "4",
+   "label": "D4 16th in chord",
+   "name": "chordD0416thnodot",
+   "size": "8"
+  },
+  {
+   "group": "2",
+   "label": "E2 16th in chord",
+   "name": "chordE0216thnodot",
+   "size": "23"
+  },
+  {
+   "group": "2",
+   "label": "E2 quarter in chord",
+   "name": "chordE02quarternodot",
+   "size": "1"
+  },
+  {
+   "group": "3",
+   "label": "E3 16th in chord",
+   "name": "chordE0316thnodot",
+   "size": "8"
+  },
+  {
+   "group": "3",
+   "label": "E3 32nd in chord",
+   "name": "chordE0332ndnodot",
+   "size": "4"
+  },
+  {
+   "group": "3",
+   "label": "E3 quarter in chord",
+   "name": "chordE03quarternodot",
+   "size": "2"
+  },
+  {
+   "group": "2",
+   "label": "F2 16th in chord",
+   "name": "chordF0216thnodot",
+   "size": "1"
+  },
+  {
+   "group": "3",
+   "label": "F3 16th in chord",
+   "name": "chordF0316thnodot",
+   "size": "13"
+  },
+  {
+   "group": "3",
+   "label": "F3 32nd in chord",
+   "name": "chordF0332ndnodot",
+   "size": "4"
+  },
+  {
+   "group": "3",
+   "label": "F3 quarter in chord",
+   "name": "chordF03quarternodot",
+   "size": "1"
+  },
+  {
+   "group": "3",
+   "label": "F#3 quarter in chord",
+   "name": "chordF13quarternodot",
+   "size": "1"
+  },
+  {
+   "group": "2",
+   "label": "G2 16th in chord",
+   "name": "chordG0216thnodot",
+   "size": "7"
+  },
+  {
+   "group": "3",
+   "label": "G3 16th in chord",
+   "name": "chordG0316thnodot",
+   "size": "3"
+  },
+  {
+   "group": "3",
+   "label": "G3 32nd in chord",
+   "name": "chordG0332ndnodot",
+   "size": "2"
+  },
+  {
+   "group": "3",
+   "label": "G#3 16th in chord",
+   "name": "chordG1316thnodot",
+   "size": "3"
+  },
+  {
+   "group": "3",
+   "label": "G#3 32nd in chord",
+   "name": "chordG1332ndnodot",
+   "size": "1"
+  },
+  {
+   "group": "3",
+   "label": "G#3 quarter in chord",
+   "name": "chordG13quarternodot",
+   "size": "1"
+  },
+  {
+   "group": "2",
+   "label": "A2 16th",
+   "name": "nonchordA0216thnodot",
+   "size": "41"
+  },
+  {
+   "group": "3",
+   "label": "A3 16th",
+   "name": "nonchordA0316thnodot",
+   "size": "86"
+  },
+  {
+   "group": "3",
+   "label": "A3 32nd",
+   "name": "nonchordA0332ndnodot",
+   "size": "5"
+  },
+  {
+   "group": "3",
+   "label": "A3 eighth",
+   "name": "nonchordA03eighthnodot",
+   "size": "3"
+  },
+  {
+   "group": "3",
+   "label": "A3 quarter",
+   "name": "nonchordA03quarternodot",
+   "size": "2"
+  },
+  {
+   "group": "4",
+   "label": "A4 16th",
+   "name": "nonchordA0416thnodot",
+   "size": "4"
+  },
+  {
+   "group": "4",
+   "label": "A4 32nd",
+   "name": "nonchordA0432ndnodot",
+   "size": "3"
+  },
+  {
+   "group": "2",
+   "label": "A#2 16th",
+   "name": "nonchordA1216thnodot",
+   "size": "12"
+  },
+  {
+   "group": "3",
+   "label": "A#3 16th",
+   "name": "nonchordA1316thnodot",
+   "size": "5"
+  },
+  {
+   "group": "3",
+   "label": "A#3 32nd",
+   "name": "nonchordA1332ndnodot",
+   "size": "3"
+  },
+  {
+   "group": "4",
+   "label": "A#4 16th",
+   "name": "nonchordA1416thnodot",
+   "size": "2"
+  },
+  {
+   "group": "2",
+   "label": "B2 16th",
+   "name": "nonchordB0216thnodot",
+   "size": "4"
+  },
+  {
+   "group": "3",
+   "label": "B3 16th",
+   "name": "nonchordB0316thnodot",
+   "size": "66"
+  },
+  {
+   "group": "3",
+   "label": "B3 32nd",
+   "name": "nonchordB0332ndnodot",
+   "size": "5"
+  },
+  {
+   "group": "3",
+   "label": "B3 quarter",
+   "name": "nonchordB03quarternodot",
+   "size": "1"
+  },
+  {
+   "group": "4",
+   "label": "B4 16th",
+   "name": "nonchordB0416thnodot",
+   "size": "2"
+  },
+  {
+   "group": "4",
+   "label": "B4 32nd",
+   "name": "nonchordB0432ndnodot",
+   "size": "2"
+  },
+  {
+   "group": "3",
+   "label": "C3 16th",
+   "name": "nonchordC0316thnodot",
+   "size": "18"
+  },
+  {
+   "group": "4",
+   "label": "C4 16th",
+   "name": "nonchordC0416thnodot",
+   "size": "64"
+  },
+  {
+   "group": "4",
+   "label": "C4 32nd",
+   "name": "nonchordC0432ndnodot",
+   "size": "4"
+  },
+  {
+   "group": "5",
+   "label": "C5 16th",
+   "name": "nonchordC0516thnodot",
+   "size": "4"
+  },
+  {
+   "group": "5",
+   "label": "C5 32nd",
+   "name": "nonchordC0532ndnodot",
+   "size": "2"
+  },
+  {
+   "group": "4",
+   "label": "C#4 16th",
+   "name": "nonchordC1416thnodot",
+   "size": "3"
+  },
+  {
+   "group": "3",
+   "label": "D3 16th",
+   "name": "nonchordD0316thnodot",
+   "size": "7"
+  },
+  {
+   "group": "4",
+   "label": "D4 16th",
+   "name": "nonchordD0416thnodot",
+   "size": "41"
+  },
+  {
+   "group": "4",
+   "label": "D4 32nd",
+   "name": "nonchordD0432ndnodot",
+   "size": "6"
+  },
+  {
+   "group": "4",
+   "label": "D4 quarter",
+   "name": "nonchordD04quarternodot",
+   "size": "1"
+  },
+  {
+   "group": "5",
+   "label": "D5 16th",
+   "name": "nonchordD0516thnodot",
+   "size": "2"
+  },
+  {
+   "group": "4",
+   "label": "D#4 16th",
+   "name": "nonchordD1416thnodot",
+   "size": "54"
+  },
+  {
+   "group": "4",
+   "label": "D#4 32nd",
+   "name": "nonchordD1432ndnodot",
+   "size": "3"
+  },
+  {
+   "group": "2",
+   "label": "E2 16th",
+   "name": "nonchordE0216thnodot",
+   "size": "5"
+  },
+  {
+   "group": "3",
+   "label": "E3 16th",
+   "name": "nonchordE0316thnodot",
+   "size": "106"
+  },
+  {
+   "group": "4",
+   "label": "E4 16th",
+   "name": "nonchordE0416thnodot",
+   "size": "99"
+  },
+  {
+   "group": "4",
+   "label": "E4 32nd",
+   "name": "nonchordE0432ndnodot",
+   "size": "11"
+  },
+  {
+   "group": "4",
+   "label": "E4 dot eighth",
+   "name": "nonchordE04eighthdot",
+   "size": "2"
+  },
+  {
+   "group": "5",
+   "label": "E5 16th",
+   "name": "nonchordE0516thnodot",
+   "size": "6"
+  },
+  {
+   "group": "3",
+   "label": "F3 16th",
+   "name": "nonchordF0316thnodot",
+   "size": "8"
+  },
+  {
+   "group": "3",
+   "label": "F3 32nd",
+   "name": "nonchordF0332ndnodot",
+   "size": "1"
+  },
+  {
+   "group": "4",
+   "label": "F4 16th",
+   "name": "nonchordF0416thnodot",
+   "size": "15"
+  },
+  {
+   "group": "4",
+   "label": "F4 32nd",
+   "name": "nonchordF0432ndnodot",
+   "size": "5"
+  },
+  {
+   "group": "3",
+   "label": "F#3 16th",
+   "name": "nonchordF1316thnodot",
+   "size": "1"
+  },
+  {
+   "group": "4",
+   "label": "F#4 16th",
+   "name": "nonchordF1416thnodot",
+   "size": "1"
+  },
+  {
+   "group": "2",
+   "label": "G2 16th",
+   "name": "nonchordG0216thnodot",
+   "size": "1"
+  },
+  {
+   "group": "3",
+   "label": "G3 16th",
+   "name": "nonchordG0316thnodot",
+   "size": "9"
+  },
+  {
+   "group": "3",
+   "label": "G3 32nd",
+   "name": "nonchordG0332ndnodot",
+   "size": "3"
+  },
+  {
+   "group": "4",
+   "label": "G4 16th",
+   "name": "nonchordG0416thnodot",
+   "size": "2"
+  },
+  {
+   "group": "4",
+   "label": "G4 32nd",
+   "name": "nonchordG0432ndnodot",
+   "size": "18"
+  },
+  {
+   "group": "3",
+   "label": "G#3 16th",
+   "name": "nonchordG1316thnodot",
+   "size": "27"
+  },
+  {
+   "group": "4",
+   "label": "G#4 16th",
+   "name": "nonchordG1416thnodot",
+   "size": "1"
+  },
+  {
+   "group": "",
+   "label": "rest eighth",
+   "name": "nonchordrest0resteighthnodot",
+   "size": "2"
+  },
+  {
+   "group": "",
+   "label": "rest quarter",
+   "name": "nonchordrest0restquarternodot",
+   "size": "1"
+  }
+ ]
+}
